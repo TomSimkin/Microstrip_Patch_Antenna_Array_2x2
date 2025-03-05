@@ -6,6 +6,7 @@ In order to run the .aedt file, you need to download HFSS.
 https://www.ansys.com/products/electronics/ansys-hfss
 
 The specifications of the antenna array are as follows: 
+
 • 4 elements that are in a 2x2 order.
  
 • Each element is connected by an individual vertical SMA connector. 
